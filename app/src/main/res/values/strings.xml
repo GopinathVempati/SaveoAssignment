@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SaveoApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">2835bacff4ddcef6e509e17c75776c6a</string>
+    <string name="read_access_token">eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyODM1YmFjZmY0ZGRjZWY2ZTUwOWUxN2M3NTc3NmM2YSIsInN1YiI6IjYxZWE1YjUwNTM0NjYxMDA0M2MxYzVkMyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.6SULwy0Z6uUOwLp5zpsb1dsIqmvwka9j2X-B8AOY7D8</string>
+    <string name="required_internet">NO Internet Connection.Please check your internet connection and reopen the app</string>
+    <string name="now_showing">Now Showing</string>
+    <string name="open_drawer_description">Open navigation drawer</string>
+    <string name="close_drawer_description">Close navigation drawer</string>
+    <string name="book_now">Book now</string>
+    <string name="synopsis">Synopsis</string>
+</resources>

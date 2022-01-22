@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: .idea/misc.xml
+  checksum: df41beff72e1a878451ed4ce9f568c45066312f06a890fef7a7d2eac68d0fe08
+- filename: app/src/main/java/com/saveo/utils/Constants.kt
+  checksum: c12633378eab230307219b0a6a55ae41f215b52e875a2a49c884575a17a93155
+- filename: app/src/main/res/values/strings.xml
+  checksum: fe6b1d7c75fd4ce4e2f43787b94f0d1989ce077de6a2f786907e4f6cd7876a37
+version: "1.0"
